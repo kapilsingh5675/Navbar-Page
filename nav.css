@@ -75,10 +75,10 @@
 }
 .icon{
       color: rgb(245, 240, 240);
-      font-size: 20px;
+      font-size: 30px;
+      margin-top: -22px;
       cursor: pointer;
       display: none;
-      border: 20px solid white;
 }
 .menu-list .cancel-btn{
       position:absolute;
