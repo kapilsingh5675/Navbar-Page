@@ -83,7 +83,7 @@
 .menu-list .cancel-btn{
       position:absolute;
       right: 30px;
-      top:20px;
+      top:50px;
 }
 @media (max-width:1230px){
       .content{
